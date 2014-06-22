@@ -22,9 +22,9 @@ run_analysis.R Codebook
 "tBodyAccJerk-mean()-Y" - Time domain signal of jerk of mean body linear acceleration (xg) derived from accelerometer on the y-axis 
 "tBodyAccJerk-mean()-Z"- Time domain signal of jerk of mean body linear acceleration (xg) derived from accelerometer on the z-axis           
 
-"tBodyAccJerk-std()-X"           
-"tBodyAccJerk-std()-Y"            
-"tBodyAccJerk-std()-Z"           
+"tBodyAccJerk-std()-X" - Standard deviation of Time domain signal of jerk of mean body linear acceleration (xg) derived from accelerometer on the x-axis           
+"tBodyAccJerk-std()-Y"  - Standard deviation of Time domain signal of jerk of mean body linear acceleration (xg) derived from accelerometer on the y-axis          
+"tBodyAccJerk-std()-Z" - Standard deviation of Time domain signal of jerk of mean body linear acceleration (xg) derived from accelerometer on the z-axis           
 
 "tBodyGyro-mean()-X"              
 "tBodyGyro-mean()-Y"             
