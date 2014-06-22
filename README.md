@@ -19,6 +19,10 @@ Where X_test and X_train contain the measured data in columns to be processed fo
 
 The script processes test_y and train_y data to correspond to the descriptive activity labels  in activity_labels.txt.  Next, the script concatenates the raw data in X_test and X_train into a single dataframe then replaces the resulting column numbers with names denoting the type of measurement (acceleration or angular velocity in x, y, or z for a particular type of movement) in features.txt.  Subsetting extracts the columns containing means or standard deviations (79 columns) from the larger data set (561 columns).
 
+The extracted dataset is then sorted by subject number and activity and a nested loop used to compute the mean for each activity type for each subject number, and the resulting data stored in a new dataframe by subject, resulting a dataframe with 180 rows and 81 columns (79 data + 1 for subject number and 1 for activity description).
+
+The final dataframe is written out to a .txt file with write.table and contains the descriptive column names found in features.txt.
+
 
 
 
