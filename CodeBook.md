@@ -42,8 +42,7 @@ run_analysis.R Codebook
 "tBodyGyroJerk-std()-Y" - Standard deviation of Time domain signal of jerk of mean body linear acceleration (radians/second) derived from gyroscope on the y-axis           
 "tBodyGyroJerk-std()-Z" - Standard deviation of Time domain signal of jerk of mean body linear acceleration (radians/second) derived from gyroscope on the z-axis          
 
-"tBodyAccMag-mean()"              
-"tBodyAccMag-std()"              
+"tBodyAccMag-mean()"  - Mean Magnitude of 3-dimensional linear body acceleration signal calculated by Euclidean norm      "tBodyAccMag-std()" - Standard deviation of Magnitude of 3-dimensional linear body acceleration signal calculated by Euclidean norm               
 
 "tGravityAccMag-mean()"           
 "tGravityAccMag-std()"           
