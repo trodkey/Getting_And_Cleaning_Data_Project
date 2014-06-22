@@ -66,20 +66,20 @@ run_analysis.R Codebook
 "fBodyAcc-std()-Z" - standard deviation of mean frequency domain signal of linear body acceleration produced by Fast Fourier Transform (FFT), z-axis              
 
 "fBodyAcc-meanFreq()-X" - Weighted average of the frequency components of linear body acceleration produced by Fast Fourier Transform (FFT), x-axis                            
-"fBodyAcc-meanFreq()-Y"          
-"fBodyAcc-meanFreq()-Z"           
+"fBodyAcc-meanFreq()-Y" - Weighted average of the frequency components of linear body acceleration produced by Fast Fourier Transform (FFT), y-axis          
+"fBodyAcc-meanFreq()-Z" - Weighted average of the frequency components of linear body acceleration produced by Fast Fourier Transform (FFT), z-axis           
 
-"fBodyAccJerk-mean()-X"          
-"fBodyAccJerk-mean()-Y"           
-"fBodyAccJerk-mean()-Z"          
+"fBodyAccJerk-mean()-X" - Frequency components of linear body acceleration jerk signal produced by Fast Fourier Transform (FFT), x-axis           
+"fBodyAccJerk-mean()-Y"  - Frequency components of linear body acceleration jerk signal produced by Fast Fourier Transform (FFT), y-axis          
+"fBodyAccJerk-mean()-Z"  - Frequency components of linear body acceleration jerk signal produced by Fast Fourier Transform (FFT), z-axis         
 
-"fBodyAccJerk-std()-X"            
-"fBodyAccJerk-std()-Y"           
-"fBodyAccJerk-std()-Z"            
+"fBodyAccJerk-std()-X" - Standard deviation of the weighted average of the frequency components of linear body acceleration jerk signal produced by Fast Fourier Transform (FFT), x-axis           
+"fBodyAccJerk-std()-Y" - Standard deviation of the weighted average of the frequency components of linear body acceleration jerk signal produced by Fast Fourier Transform (FFT), y-axis          
+"fBodyAccJerk-std()-Z" - Standard deviation of the weighted average of the frequency components of linear body acceleration jerk signal produced by Fast Fourier Transform (FFT), z-axis           
 
-"fBodyAccJerk-meanFreq()-X"      
-"fBodyAccJerk-meanFreq()-Y"
-"fBodyAccJerk-meanFreq()-Z"      
+"fBodyAccJerk-meanFreq()-X" - Weighted average of the frequency components of linear body acceleration jerk signal produced by Fast Fourier Transform (FFT), x-axis     
+"fBodyAccJerk-meanFreq()-Y"  - Weighted average of the frequency components of linear body acceleration jerk signal produced by Fast Fourier Transform (FFT), y-axis
+"fBodyAccJerk-meanFreq()-Z" - Weighted average of the frequency components of linear body acceleration jerk signal produced by Fast Fourier Transform (FFT), z-axis     
 
 "fBodyGyro-mean()-X"              
 "fBodyGyro-mean()-Y"             
