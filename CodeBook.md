@@ -4,20 +4,20 @@ run_analysis.R Codebook
 
 "Activity"            - The description of the activity the study participant was engaged in during recording           
 
-"tBodyAcc-mean()-X"   - Time domain signal of mean body linear acceleration (xg) derived from accelerometer on the x-axis            
-"tBodyAcc-mean()-Y"   - Mean body acceleration (xg) on the y-axis               
-"tBodyAcc-mean()-Z"   - Mean body acceleration (xg) on the z-axis 
+"tBodyAcc-mean()-X"   - Time domain signal of mean body linear acceleration (xg) derived from accelerometer on the x-axis   "tBodyAcc-mean()-Y"   - Time domain signal of mean body linear acceleration (xg) derived from accelerometer on the x-axis   "tBodyAcc-mean()-Z"   - Time domain signal of mean body linear acceleration (xg) derived from accelerometer on the x-axis  
 
-"tBodyAcc-std()-X"    - Standard deviation of body acceleration (xg) on the x-axis           
-"tBodyAcc-std()-Y"    - Standard deviation of body acceleration (xg) on the y-axis                
-"tBodyAcc-std()-Z"    - Standard deviation of body acceleration (xg) on the z-axis
+"tBodyAcc-std()-X"    - Standard deviation of Time domain signal of mean body linear acceleration (xg) on the x-axis
+"tBodyAcc-std()-Y"    - Standard deviation of Time domain signal of body acceleration (xg) on the y-axis                
+"tBodyAcc-std()-Z"    - Standard deviation of Time domain signal of body acceleration (xg) on the z-axis
 
 "tGravityAcc-mean()-X" - Time domain signal of mean gravity acceleration signal (xg) derived from accelerometer on the x-axis 
 "tGravityAcc-mean()-Y" - Time domain signal of mean gravity acceleration signal (xg) derived from accelerometer on the y-axis         
-"tGravityAcc-mean()-Z"  - Time domain signal of mean gravity acceleration signal (xg) derived from accelerometer on the z-axis                 
+"tGravityAcc-mean()-Z"  - Time domain signal of mean gravity acceleration signal (xg) derived from accelerometer on the z-axis                
+
 "tGravityAcc-std()-X"  - Standard deviation of Time domain signal of mean gravity acceleration signal (xg) derived from accelerometer on the x-axis         
 "tGravityAcc-std()-Y"  - Standard deviation of Time domain signal of mean gravity acceleration signal (xg) derived from accelerometer on the y-axis            
 "tGravityAcc-std()-Z"  - Standard deviation of Time domain signal of mean gravity acceleration signal (xg) derived from accelerometer on the z-axis          
+
 "tBodyAccJerk-mean()-X"           
 "tBodyAccJerk-mean()-Y"          
 "tBodyAccJerk-mean()-Z"           
