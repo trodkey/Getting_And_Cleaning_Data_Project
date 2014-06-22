@@ -118,5 +118,5 @@ for (j in subject_list) {
 colnames(act_df)[1] <- "Subject_Number"
 colnames(act_df)[2] <- "Activity"
 
-## Write the output to a .txt file tab delimited
+## Write the output to a .txt file tab delimited 
 write.table(act_df, "./tidy_data.txt", sep="\t")
