@@ -2,12 +2,12 @@ run_analysis.R Codebook
 
 "Subject_Number"      - The anonymous number of the person in the study                 
 "Activity"            - The description of the activity the study participant was engaged in during recording           
-"tBodyAcc-mean()-X"               
-"tBodyAcc-mean()-Y"              
-"tBodyAcc-mean()-Z"               
-"tBodyAcc-std()-X"               
-"tBodyAcc-std()-Y"                
-"tBodyAcc-std()-Z"               
+"tBodyAcc-mean()-X"   - Mean body acceleration (xg) on the x-axis            
+"tBodyAcc-mean()-Y"   - Mean body acceleration (xg) on the y-axis               
+"tBodyAcc-mean()-Z"   - Mean body acceleration (xg) on the z-axis 
+"tBodyAcc-std()-X"    - Standard deviation of body acceleration (xg) on the x-axis           
+"tBodyAcc-std()-Y"    - Standard deviation of body acceleration (xg) on the y-axis                
+"tBodyAcc-std()-Z"    - Standard deviation of body acceleration (xg) on the z-axis
 "tGravityAcc-mean()-X"            
 "tGravityAcc-mean()-Y"           
 "tGravityAcc-mean()-Z"            
