@@ -38,9 +38,9 @@ run_analysis.R Codebook
 "tBodyGyroJerk-mean()-Y"- Time domain signal of jerk of mean body linear acceleration (radians/second) derived from gyroscope on the y-axis           
 "tBodyGyroJerk-mean()-Z"- Time domain signal of jerk of mean body linear acceleration (radians/second) derived from gyroscope on the z-axis            
 
-"tBodyGyroJerk-std()-X"          
-"tBodyGyroJerk-std()-Y"           
-"tBodyGyroJerk-std()-Z"          
+"tBodyGyroJerk-std()-X"  - Standard deviation of Time domain signal of jerk of mean body linear acceleration (radians/second) derived from gyroscope on the x-axis          
+"tBodyGyroJerk-std()-Y" - Standard deviation of Time domain signal of jerk of mean body linear acceleration (radians/second) derived from gyroscope on the y-axis           
+"tBodyGyroJerk-std()-Z" - Standard deviation of Time domain signal of jerk of mean body linear acceleration (radians/second) derived from gyroscope on the z-axis          
 
 "tBodyAccMag-mean()"              
 "tBodyAccMag-std()"              
