@@ -96,15 +96,15 @@ run_analysis.R Codebook
 "fBodyAccMag-mean()"  -  Mean magnitude of 3-dimensional linear body acceleration signal (xg) calculated by Euclidean norm              
 "fBodyAccMag-std()" - Standard deviation of mean magnitude of 3-dimensional linear body acceleration signal (xg) calculated by Euclidean norm              
 
-"fBodyAccMag-meanFreq()"         
-"fBodyBodyAccJerkMag-mean()"      
-"fBodyBodyAccJerkMag-std()"      
-"fBodyBodyAccJerkMag-meanFreq()"
+"fBodyAccMag-meanFreq()" - Weighted average of the frequency components of the mean magnitude of 3-dimensional linear body acceleration signal (xg) calculated by Euclidean norm        
+"fBodyBodyAccJerkMag-mean()" - Weighted average of the frequency components of the mean magnitude of 3-dimensional linear body acceleration jerk signal (xg) calculated by Euclidean norm     
+"fBodyBodyAccJerkMag-std()" - Standard deviation of weighted average of the frequency components of the mean magnitude of 3-dimensional linear body acceleration signal (xg) calculated by Euclidean norm     
+"fBodyBodyAccJerkMag-meanFreq()" - Standard deviation of weighted average of the frequency components of the mean magnitude of 3-dimensional linear body acceleration jerk signal (xg) calculated by Euclidean norm
 
-"fBodyBodyGyroMag-mean()"        
-"fBodyBodyGyroMag-std()"          
-"fBodyBodyGyroMag-meanFreq()"    
+"fBodyBodyGyroMag-mean()"  - Mean frequency components of linear body acceleration signal measured by gyroscope (radians/second) produced by Fast Fourier Transform (FFT)          
+"fBodyBodyGyroMag-std()" - Standard deviation of mean of frequency components of linear body acceleration signal measured by gyroscope (radians/second) produced by Fast Fourier Transform (FFT)         
+"fBodyBodyGyroMag-meanFreq()" - Weighted average of frequency components of linear body acceleration signal measured by gyroscope (radians/second) produced by Fast Fourier Transform (FFT)    
 
-"fBodyBodyGyroJerkMag-mean()"    
-"fBodyBodyGyroJerkMag-std()"     
-"fBodyBodyGyroJerkMag-meanFreq()"
+"fBodyBodyGyroJerkMag-mean()" - Mean magnitude of frequency components of linear body acceleration jerk signal measured by gyroscope (radians/second) produced by Fast Fourier Transform (FFT)    
+"fBodyBodyGyroJerkMag-std()" - Standard deviation of mean magnitude of frequency components of linear body acceleration jerk signal measured by gyroscope (radians/second) produced by Fast Fourier Transform (FFT)     
+"fBodyBodyGyroJerkMag-meanFreq()" - Weighted average of mean magnitude of frequency components of linear body acceleration jerk signal measured by gyroscope (radians/second) produced by Fast Fourier Transform (FFT) 
