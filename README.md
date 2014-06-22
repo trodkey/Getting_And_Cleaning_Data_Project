@@ -17,6 +17,7 @@ This script takes as input 6 files in the R working directory:
 
 Where X_test and X_train contain the measured data in columns to be processed for the test and training sets, respectively.  Data not including the mean or standard deviation e excluded by subsetting.  y_test and y_train contain the numbers of activity description per row of X_test or X_train that correspond to the descriptions found in activity_labels.txt. Subject_test and subject_train contain the values of subject participant number that correspond to a particular row in X_test or X_train, respectively.
 
+The script processes test_y and train_y data to correspond to the descriptive activity labels  in activity_labels.txt.  Next, the script concatenates the raw data in X_test and X_train into a single dataframe then replaces the resulting column numbers with names denoting the type of measurement (acceleration or angular velocity in x, y, or z for a particular type of movement) in features.txt.  Subsetting extracts the columns containing means or standard deviations (79 columns) from the larger data set (561 columns).
 
 
 
