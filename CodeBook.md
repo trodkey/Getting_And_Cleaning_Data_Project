@@ -81,20 +81,20 @@ run_analysis.R Codebook
 "fBodyAccJerk-meanFreq()-Y"  - Weighted average of the frequency components of linear body acceleration jerk signal produced by Fast Fourier Transform (FFT), y-axis
 "fBodyAccJerk-meanFreq()-Z" - Weighted average of the frequency components of linear body acceleration jerk signal produced by Fast Fourier Transform (FFT), z-axis     
 
-"fBodyGyro-mean()-X"              
-"fBodyGyro-mean()-Y"             
-"fBodyGyro-mean()-Z"              
+"fBodyGyro-mean()-X"  - Frequency components of linear body acceleration signal measured by gyroscope (radians/second) produced by Fast Fourier Transform (FFT), x-axis                     
+"fBodyGyro-mean()-Y"  - Frequency components of linear body acceleration signal measured by gyroscope (radians/second) produced by Fast Fourier Transform (FFT), y-axis                    
+"fBodyGyro-mean()-Z"  - Frequency components of linear body acceleration signal measured by gyroscope (radians/second) produced by Fast Fourier Transform (FFT), z-axis                     
 
-"fBodyGyro-std()-X"              
-"fBodyGyro-std()-Y"               
-"fBodyGyro-std()-Z"              
+"fBodyGyro-std()-X" - Standard deviation of Frequency components of linear body acceleration signal measured by gyroscope (radians/second) produced by Fast Fourier Transform (FFT), x-axis               
+"fBodyGyro-std()-Y" - Standard deviation of Frequency components of linear body acceleration signal measured by gyroscope (radians/second) produced by Fast Fourier Transform (FFT), y-axis              
+"fBodyGyro-std()-Z" - Standard deviation of Frequency components of linear body acceleration signal measured by gyroscope (radians/second) produced by Fast Fourier Transform (FFT), z-axis             
 
-"fBodyGyro-meanFreq()-X"          
-"fBodyGyro-meanFreq()-Y"         
-"fBodyGyro-meanFreq()-Z"         
+"fBodyGyro-meanFreq()-X"  - Weighted average of the frequency components of linear body acceleration signal measured by gyroscope (radians/second) produced by Fast Fourier Transform (FFT), x-axis         
+"fBodyGyro-meanFreq()-Y" - Weighted average of the frequency components of linear body acceleration signal measured by gyroscope (radians/second) produced by Fast Fourier Transform (FFT), y-axis           
+"fBodyGyro-meanFreq()-Z" - Weighted average of the frequency components of linear body acceleration signal measured by gyroscope (radians/second) produced by Fast Fourier Transform (FFT), z-axis           
 
-"fBodyAccMag-mean()"             
-"fBodyAccMag-std()"               
+"fBodyAccMag-mean()"  -  Mean magnitude of 3-dimensional linear body acceleration signal (xg) calculated by Euclidean norm              
+"fBodyAccMag-std()" - Standard deviation of mean magnitude of 3-dimensional linear body acceleration signal (xg) calculated by Euclidean norm              
 
 "fBodyAccMag-meanFreq()"         
 "fBodyBodyAccJerkMag-mean()"      
