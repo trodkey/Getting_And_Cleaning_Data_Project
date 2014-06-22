@@ -51,21 +51,21 @@ run_analysis.R Codebook
 "tBodyAccJerkMag-mean()" -  Mean Magnitude of 3-dimensional linear body acceleration jerk signal calculated by Euclidean norm         
 "tBodyAccJerkMag-std()" - Standard deviation of mean magnitude of 3-dimensional linear body acceleration jerk signal calculated by Euclidean norm                  
 
-"tBodyGyroMag-mean()"            
-"tBodyGyroMag-std()"             
+"tBodyGyroMag-mean()" - Mean magnitude of 3-dimensional linear body acceleration signal (radians/second) calculated by Euclidean norm           
+"tBodyGyroMag-std()" - Standard deviation of mean magnitude of 3-dimensional linear body acceleration signal (radians/second) calculated by Euclidean norm                      
 
-"tBodyGyroJerkMag-mean()"         
-"tBodyGyroJerkMag-std()"         
+"tBodyGyroJerkMag-mean()" - Mean magnitude of 3-dimensional linear body acceleration jerk signal (radians/second) calculated by Euclidean norm                  
+"tBodyGyroJerkMag-std()"  - Standard deviation of mean magnitude of 3-dimensional linear body acceleration jerk signal (radians/second) calculated by Euclidean norm          
 
-"fBodyAcc-mean()-X"           - frequency domain signal of linear body acceleration produced by Fast Fourier Transform (FFT), x-axis    
-"fBodyAcc-mean()-Y"              
-"fBodyAcc-mean()-Z"               
+"fBodyAcc-mean()-X"  - mean frequency domain signal of linear body acceleration produced by Fast Fourier Transform (FFT), x-axis    
+"fBodyAcc-mean()-Y" - mean frequency domain signal of linear body acceleration produced by Fast Fourier Transform (FFT), y-axis                 
+"fBodyAcc-mean()-Z" - mean frequency domain signal of linear body acceleration produced by Fast Fourier Transform (FFT), z-axis                  
 
-"fBodyAcc-std()-X"               
-"fBodyAcc-std()-Y"                
-"fBodyAcc-std()-Z"               
+"fBodyAcc-std()-X" - standard deviation of mean frequency domain signal of linear body acceleration produced by Fast Fourier Transform (FFT), x-axis                  
+"fBodyAcc-std()-Y" - standard deviation of mean frequency domain signal of linear body acceleration produced by Fast Fourier Transform (FFT), y-axis               
+"fBodyAcc-std()-Z" - standard deviation of mean frequency domain signal of linear body acceleration produced by Fast Fourier Transform (FFT), z-axis              
 
-"fBodyAcc-meanFreq()-X"           
+"fBodyAcc-meanFreq()-X" - Weighted average of the frequency components of linear body acceleration produced by Fast Fourier Transform (FFT), x-axis                            
 "fBodyAcc-meanFreq()-Y"          
 "fBodyAcc-meanFreq()-Z"           
 
