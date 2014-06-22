@@ -44,8 +44,9 @@ run_analysis.R Codebook
 
 "tBodyAccMag-mean()"  - Mean Magnitude of 3-dimensional linear body acceleration signal calculated by Euclidean norm      "tBodyAccMag-std()" - Standard deviation of Magnitude of 3-dimensional linear body acceleration signal calculated by Euclidean norm               
 
-"tGravityAccMag-mean()"           
-"tGravityAccMag-std()"           
+"tGravityAccMag-mean()" -  Mean Magnitude of 3-dimensional gravity acceleration signal calculated by Euclidean norm     
+"tGravityAccMag-std()"  -  Standard deviation of mean magnitude of 3-dimensional gravity acceleration signal calculated by Euclidean norm     
+       
 
 "tBodyAccJerkMag-mean()"          
 "tBodyAccJerkMag-std()"          
