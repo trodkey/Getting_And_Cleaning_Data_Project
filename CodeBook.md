@@ -4,7 +4,7 @@ run_analysis.R Codebook
 
 "Activity"            - The description of the activity the study participant was engaged in during recording           
 
-"tBodyAcc-mean()-X"   - Mean body acceleration (xg) on the x-axis            
+"tBodyAcc-mean()-X"   - Time domain signal of mean body linear acceleration (xg) derived from accelerometer on the x-axis            
 "tBodyAcc-mean()-Y"   - Mean body acceleration (xg) on the y-axis               
 "tBodyAcc-mean()-Z"   - Mean body acceleration (xg) on the z-axis 
 
@@ -12,12 +12,12 @@ run_analysis.R Codebook
 "tBodyAcc-std()-Y"    - Standard deviation of body acceleration (xg) on the y-axis                
 "tBodyAcc-std()-Z"    - Standard deviation of body acceleration (xg) on the z-axis
 
-"tGravityAcc-mean()-X"            
-"tGravityAcc-mean()-Y"           
-"tGravityAcc-mean()-Z"            
-"tGravityAcc-std()-X"            
-"tGravityAcc-std()-Y"             
-"tGravityAcc-std()-Z"            
+"tGravityAcc-mean()-X" - Time domain signal of mean gravity acceleration signal (xg) derived from accelerometer on the x-axis 
+"tGravityAcc-mean()-Y" - Time domain signal of mean gravity acceleration signal (xg) derived from accelerometer on the y-axis         
+"tGravityAcc-mean()-Z"  - Time domain signal of mean gravity acceleration signal (xg) derived from accelerometer on the z-axis                 
+"tGravityAcc-std()-X"  - Standard deviation of Time domain signal of mean gravity acceleration signal (xg) derived from accelerometer on the x-axis         
+"tGravityAcc-std()-Y"  - Standard deviation of Time domain signal of mean gravity acceleration signal (xg) derived from accelerometer on the y-axis            
+"tGravityAcc-std()-Z"  - Standard deviation of Time domain signal of mean gravity acceleration signal (xg) derived from accelerometer on the z-axis          
 "tBodyAccJerk-mean()-X"           
 "tBodyAccJerk-mean()-Y"          
 "tBodyAccJerk-mean()-Z"           
@@ -46,7 +46,7 @@ run_analysis.R Codebook
 "tBodyGyroMag-std()"             
 "tBodyGyroJerkMag-mean()"         
 "tBodyGyroJerkMag-std()"         
-"fBodyAcc-mean()-X"               
+"fBodyAcc-mean()-X"           - frequency domain signal of linear body acceleration produced by Fast Fourier Transform (FFT), x-axis    
 "fBodyAcc-mean()-Y"              
 "fBodyAcc-mean()-Z"               
 "fBodyAcc-std()-X"               
