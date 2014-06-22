@@ -15,7 +15,9 @@ This script takes as input 6 files in the R working directory:
 5) subject_test
 6) subject_train
 
-Where X_test and X_train contain the measured data in columns to be processed for the test and training sets, respectively.  Data not including the mean or standard deviation e excluded by subsetting.  y_test and y_train contain the numbers of activity description that correspond to the descriptions found in activity_labels.txt. 
+Where X_test and X_train contain the measured data in columns to be processed for the test and training sets, respectively.  Data not including the mean or standard deviation e excluded by subsetting.  y_test and y_train contain the numbers of activity description per row of X_test or X_train that correspond to the descriptions found in activity_labels.txt. Subject_test and subject_train contain the values of subject participant number that correspond to a particular row in X_test or X_train, respectively.
+
+
 
 
 
